@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  margin-top: 82px;
+}
+
+.App-header {
+  background-color: floralwhite ;
+  min-height: 100vh;
+  display: flex;
+  border: 1px solid black;
+  width: 100%;
+  /* justify-content: center;
+  /* align-items: flex-start; */
+  /* float: left;  */
+  
+  
+  font-size: calc(10px + 2vmin);
+
+}
+
+.app1 {
+ background-color: blanchedalmond;
+ padding-right: 30px;
+ padding-left: 30px;
+ 
+}
+
+.app2{
+  margin-left: 40px;
+  width: auto;
+  /* border: 1px solid black; */
+  color: black; 
+ 
+}
+
+.appbar {
+  background-color: blanchedalmond;
+  padding: 14px;
+  font-weight: bold;
+}
+
+.icon {
+  margin-bottom: 5px;
+}
+
+.letter{
+  color: black;
+} 
+
+.home {
+  color: black;
+  text-align: left;
+}
+
+.listinput {
+  display: inline-block;
+  padding: 40px;
+}
